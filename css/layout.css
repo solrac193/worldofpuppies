@@ -7,3 +7,48 @@
 body{
   font-family: 'Montserrat', sans-serif;
 }
+
+.wrapper{
+  padding-top: 70px;
+}
+
+.container{
+  width: 960px;
+  margin: 0 auto;
+}
+
+h2{
+  font-size: 55px;
+}
+
+section{
+
+}
+
+section h2 {
+  color: gray;
+}
+
+section.accent{
+  background: #9e2b2c;
+}
+
+section.accent h2 {
+  color: white;
+}
+
+section.dark{
+  background: black
+}
+
+section.dark h2 {
+  color: white;
+}
+.light thead {
+  color: white;
+}
+
+.table thead{
+  background: #9e2b2c;
+  font-size: 20px;
+}

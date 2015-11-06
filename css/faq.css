@@ -1,0 +1,60 @@
+#faq{
+  font-family: verdana;
+  padding-top: 5px;
+  height: 900px;
+
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1a1f23+32,414c58+100 */
+  background: #1a1f23; /* Old browsers */
+  background: -moz-linear-gradient(top,  #1a1f23 32%, #414c58 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(32%,#1a1f23), color-stop(100%,#414c58)); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top,  #1a1f23 32%,#414c58 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top,  #1a1f23 32%,#414c58 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(top,  #1a1f23 32%,#414c58 100%); /* IE10+ */
+  background: linear-gradient(to bottom,  #1a1f23 32%,#414c58 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1a1f23', endColorstr='#414c58',GradientType=0 ); /* IE6-9 */
+
+}
+
+#faq .container h2 {
+    text-transform: uppercase;
+}
+
+.faq{
+  list-style: none;
+}
+
+.faq-item{
+  background-image: url("../img/faq-bg.png");
+  background-position: right;
+  background-repeat: no-repeat;
+
+
+
+  margin-bottom:25px;
+}
+
+
+.faq-question{
+  margin: 0;
+  color: white;
+  height: 55px;
+  font-size: 20px;
+  background-color: #953e46;
+  border-radius: 3px 3px 0px 0px;
+  padding-top: 15px;
+  padding-left: 15px;
+  opacity: 0.9;
+
+
+}
+
+.faq-answer {
+  margin: 0;
+  border-radius: 0 0 3px 3px;
+  padding-top: 5px;
+  padding-left: 10px;
+  padding-bottom: 2em;
+  padding-right: 9em;
+  background: white;
+  opacity: 0.9;
+    }

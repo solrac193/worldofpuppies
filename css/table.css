@@ -1,0 +1,30 @@
+#breeds{
+  padding-bottom: 25px;
+}
+
+
+table{
+  width: 100%;
+}
+
+
+td {
+  color: gray;
+  padding: 10px 35px;
+
+}
+
+.table tr:nth-child(even){
+  background-color: #efeeee;
+}
+
+tr {
+  border-bottom: 1px solid #d4d3d3;
+}
+
+.thumbnail-col img {
+  width: 60px;
+  padding: 2px;
+  border: #dddddd solid 2px;
+  border-radius: 5px;
+}

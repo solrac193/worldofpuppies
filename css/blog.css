@@ -1,0 +1,53 @@
+#blog{
+  height: 550px;
+  font-family: sans-serif;
+}
+
+#blog .container h2 {
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  margin-top: 2%
+  ;
+}
+
+
+.blog-row .blog-col-left{
+  float: left;
+  width: 600px;
+
+}
+
+.blog-header time {
+  display: block;
+  font-size: 18px;
+  color: gray;
+}
+
+.blog-header a {
+  text-decoration: none;
+  color: black;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.blog-entry .blog-content {
+  padding-top: 10px;
+  color: gray;
+  font-size: 17px;
+}
+
+.blog-row .blog-col-right {
+
+  float: right;
+  width: 350px;
+
+}
+
+.blog-col-right .blog-list {
+    list-style: none;
+}
+
+.blog-list li {
+  padding: 12px;
+  border-bottom: 1px solid #d4d3d3;
+}

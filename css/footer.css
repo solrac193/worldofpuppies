@@ -1,0 +1,17 @@
+#footer {
+
+  background-color: black;
+  padding: 10px;
+
+}
+
+#footer .container img {
+  width: 55px;
+  margin-left: 440px;
+}
+
+#footer .container p{  margin-left: 333px;
+  color: white;
+  font-size: 14px;
+  padding-bottom: 5px;
+}

@@ -1,0 +1,19 @@
+#introduction {
+  background-image: url("../img/introduction-bg.jpg");
+  background-size: 100% auto;
+  width: 100%;
+  height: 600px;
+  background-position: center 30%;
+  background-repeat: no-repeat;
+}
+
+
+
+
+#about{
+  color: #515151;
+}
+
+.pull-right {
+  float: right;
+}
